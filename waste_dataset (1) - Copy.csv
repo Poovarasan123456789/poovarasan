@@ -1,0 +1,11 @@
+image_id,label,material_subtype,brightness,sharpness
+img_001.jpg,Plastic,PET,120,0.87
+img_002.jpg,Glass,,95,0.93
+img_003.jpg,Metal,Aluminum,110,0.89
+img_004.jpg,Paper,Cardboard,102,0.84
+img_005.jpg,Plastic,HDPE,130,0.91
+img_006.jpg,Glass,,98,0.85
+img_007.jpg,Metal,Steel,108,0.88
+img_008.jpg,Paper,Newspaper,115,0.86
+img_009.jpg,Plastic,PET,123,0.9
+img_010.jpg,Paper,Office,105,0.82
